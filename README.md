@@ -60,6 +60,7 @@ A self-initiated capstone build - a five-page responsive coffee shop website wit
 
 
 
+![Snake animation](https://github.com/SebMezaTor/SebMezaTor/blob/output/github-contribution-grid-snake-dark.svg))
 
 
 ## 📬 Contact & Connect
