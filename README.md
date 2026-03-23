@@ -32,11 +32,15 @@ A fully responsive travel landing page built mobile-first using semantic HTML an
 [Live Demo]
 (https://sebmezator.github.io/Wunderlust/wunderlust-majorca)
 
+---
+
 ### Good Eats - Semantic HTML & Responsive Recipe Experience
 A content-focused recipe webpage organizing detailed instructional content using validated semantic HTML and responsive CSS. Includes typography, SVG usage, and visual transitions.
 
 [Live Demo]
 (https://sebmezator.github.io/recipe/)
+
+---
 
 ### Path to Success - Responsive Front-End Build from Design Mockup
 A fully functional responsive webpage built directly from provided design mockups. Translates a static design into a semantic, mobile-first front-end with four defined breakpoints.
@@ -44,11 +48,15 @@ A fully functional responsive webpage built directly from provided design mockup
 [Live Demo]
 (https://sebmezator.github.io/path-to-success/)
 
+---
+
 ### Little Embers Café - Multi-Page Responsive Coffee Shop Website
 A self-initiated capstone build - a five-page responsive coffee shop website with a cohesive design system, consistent navigation, and a polished visual identity built with vanilla HTML, CSS, and JavaScript.
 
 [Live Demo]
 (https://sebmezator.github.io/little-embers-cafe/)
+
+---
 
 ## 📊 GitHub Stats
 
