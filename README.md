@@ -27,6 +27,10 @@ I am a front-end web developer focused on building responsive, accessible, and v
 ## 🚀 Featured Projects
 
 ### Wunderlust Majorca - Mobile-First Responsive Travel Website
+
+![Wunderlust Majorca](wunderlust-preview.png)
+
+
 A fully responsive travel landing page built mobile-first using semantic HTML and CSS grid. Adapts cleanly from mobile to tablet to desktop through targeted media queries.
 
 [Live Demo]
@@ -35,6 +39,10 @@ A fully responsive travel landing page built mobile-first using semantic HTML an
 ---
 
 ### Good Eats - Semantic HTML & Responsive Recipe Experience
+
+![Good Eats](good-eats-preview.png)
+
+
 A content-focused recipe webpage organizing detailed instructional content using validated semantic HTML and responsive CSS. Includes typography, SVG usage, and visual transitions.
 
 [Live Demo]
@@ -43,6 +51,10 @@ A content-focused recipe webpage organizing detailed instructional content using
 ---
 
 ### Path to Success - Responsive Front-End Build from Design Mockup
+
+![Path to Success](path-to-success-preview.png)
+
+
 A fully functional responsive webpage built directly from provided design mockups. Translates a static design into a semantic, mobile-first front-end with four defined breakpoints.
 
 [Live Demo]
@@ -51,6 +63,9 @@ A fully functional responsive webpage built directly from provided design mockup
 ---
 
 ### Little Embers Café - Multi-Page Responsive Coffee Shop Website
+
+![Little Embers Café](little-embers-preview.png)
+
 A self-initiated capstone build - a five-page responsive coffee shop website with a cohesive design system, consistent navigation, and a polished visual identity built with vanilla HTML, CSS, and JavaScript.
 
 [Live Demo]
