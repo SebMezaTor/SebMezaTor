@@ -86,7 +86,7 @@ A self-initiated capstone build - a five-page responsive coffee shop website wit
 ## 📬 Contact & Connect
 
 - 📧 Email: [smmtorres6@gmail.com](mailto:smmtorres6@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/sebastian-meza-torres-1b693a394](www.linkedin.com/in/sebastian-meza-torres-1b693a394)
+- 💼 LinkedIn: [www.linkedin.com/in/sebastian-meza-torres-1b693a394](https://www.linkedin.com/in/sebastian-meza-torres-1b693a394)
 - 💻 GitHub: [github.com/SebMezaTor](https://github.com/SebMezaTor)
 
 
