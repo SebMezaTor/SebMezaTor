@@ -34,8 +34,7 @@ I am a front-end web developer focused on building responsive, accessible, and v
 
 A fully responsive travel landing page built mobile-first using semantic HTML and CSS grid. Adapts cleanly from mobile to tablet to desktop through targeted media queries.
 
-[Live Demo]
-(https://sebmezator.github.io/Wunderlust/wunderlust-majorca)
+[Live Demo](https://sebmezator.github.io/Wunderlust/wunderlust-majorca)
 
 ---
 
@@ -46,8 +45,7 @@ A fully responsive travel landing page built mobile-first using semantic HTML an
 
 A content-focused recipe webpage organizing detailed instructional content using validated semantic HTML and responsive CSS. Includes typography, SVG usage, and visual transitions.
 
-[Live Demo]
-(https://sebmezator.github.io/recipe/)
+[Live Demo](https://sebmezator.github.io/recipe/)
 
 ---
 
@@ -58,8 +56,7 @@ A content-focused recipe webpage organizing detailed instructional content using
 
 A fully functional responsive webpage built directly from provided design mockups. Translates a static design into a semantic, mobile-first front-end with four defined breakpoints.
 
-[Live Demo]
-(https://sebmezator.github.io/path-to-success/)
+[Live Demo](https://sebmezator.github.io/path-to-success/)
 
 ---
 
@@ -69,8 +66,7 @@ A fully functional responsive webpage built directly from provided design mockup
 
 A self-initiated capstone build - a five-page responsive coffee shop website with a cohesive design system, consistent navigation, and a polished visual identity built with vanilla HTML, CSS, and JavaScript.
 
-[Live Demo]
-(https://sebmezator.github.io/little-embers-cafe/)
+[Live Demo](https://sebmezator.github.io/little-embers-cafe/)
 
 ---
 
