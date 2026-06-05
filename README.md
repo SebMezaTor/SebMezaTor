@@ -14,7 +14,7 @@ I am a front-end web developer focused on building responsive, accessible, and v
 ## 🏆 Achievements
 - 🎖️ President's List - Rio Salado College
 - 🏅 Honor Roll - Rio Salado College
-- 📋 Dean's List - Arizona State University (x2)
+- 📋 Dean's List - Arizona State University (x3)
 
 ## 🛠️ Tech Stack
 
